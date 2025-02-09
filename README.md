@@ -1,6 +1,6 @@
 # Web Scraping Project
 
-Progetto svolto per un esame universitario
+Progetto svolto per un esame universitario.
 Il progetto è stato suddiviso in 3 jupyther notebook.
 
 ## Author 
